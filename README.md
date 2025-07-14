@@ -44,5 +44,5 @@ Este projeto de ciência de dados tem como objetivo prever o risco de evasão (c
 
 ## 📬 Contato
 
-Para dúvidas, sugestões ou colaborações, entre em contato pelo e-mail [seu-email@dominio.com] ou abra uma issue neste repositório.
+Para dúvidas, sugestões ou colaborações, entre em contato pelo e-mail [wlamirl@gmail.com] ou abra uma issue neste repositório.
 
